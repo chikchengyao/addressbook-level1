@@ -4,7 +4,7 @@
 || Welcome to your Address Book!
 || ===================================================
 || The given file name [ ] is not a valid file name!
-|| Exiting Address Book... Good bye!
+|| Exiting Address Book... Goodbye!
 || ===================================================
 || ===================================================
 || ===================================================
@@ -13,7 +13,7 @@
 || Welcome to your Address Book!
 || ===================================================
 || The given file name [directoryThatDoesNotExist/valid.filename] is not a valid file name!
-|| Exiting Address Book... Good bye!
+|| Exiting Address Book... Goodbye!
 || ===================================================
 || ===================================================
 || ===================================================
@@ -22,7 +22,7 @@
 || Welcome to your Address Book!
 || ===================================================
 || The given file name [.noFilename] is not a valid file name!
-|| Exiting Address Book... Good bye!
+|| Exiting Address Book... Goodbye!
 || ===================================================
 || ===================================================
 || ===================================================
@@ -31,7 +31,7 @@
 || Welcome to your Address Book!
 || ===================================================
 || The given file name [data/notRegularFile.txt] is not a valid file name!
-|| Exiting Address Book... Good bye!
+|| Exiting Address Book... Goodbye!
 || ===================================================
 || ===================================================
 || ===================================================
@@ -40,7 +40,7 @@
 || Welcome to your Address Book!
 || ===================================================
 || Enter command: || [Command entered:exit]
-|| Exiting Address Book... Good bye!
+|| Exiting Address Book... Goodbye!
 || ===================================================
 || ===================================================
 || ===================================================
@@ -276,6 +276,6 @@
 || 0 persons found!
 || ===================================================
 || Enter command: || [Command entered:  exit]
-|| Exiting Address Book... Good bye!
+|| Exiting Address Book... Goodbye!
 || ===================================================
 || ===================================================
